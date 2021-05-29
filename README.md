@@ -1,5 +1,5 @@
-# Fluffy
-SOCIAL MEDIA
+# Fluffy(SOCIAL MEDIA)
+
 ## Getting Started 
 
 This project is a starting point for a Android application with Database.
